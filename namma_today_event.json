@@ -3,16 +3,6 @@
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/namma_today_event/main/namma_today_event1.jpg"
-      },
-      
-      {
-         "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/namma_today_event/main/namma_today_event2.jpg"
-      },
-           
-      {
-         "type":"youtube",
-         "Id":""
-       }
+      }
    ]
  }
